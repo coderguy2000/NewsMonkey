@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Holiday surge expected after travel rules change - BBC News",
+            "description": "Travel agents report a rise in bookings after the amber list is scrapped and testing rules are eased.",
+            "url": "https://www.bbc.com/news/uk-58606870",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17C79/production/_120610479_majorca2.jpg",
+            "publishedAt": "2021-09-18T03:13:34Z",
+            "content": "By Alex TherrienBBC News\r\nA surge in holiday bookings is expected after the government announced on Friday that international travel rules were being simplified in England. \r\nTransport Secretary Gran… [+3761 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Amir Jalal Zerdoumi, Carlotta Gall",
+            "title": "Abdelaziz Bouteflika, Algeria’s Longest-Serving President, Dies at 84 - The New York Times",
+            "description": "Mr. Bouteflika, ousted from the presidency in 2019 after 20 years in office, joined the country’s fight for independence in the 1950s and helped lead the nation out of a brutal civil war in the 1990s.",
+            "url": "https://www.nytimes.com/2021/09/17/world/middleeast/bouteflika-algeria-president-dies.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/09/19/world/19bouteflika-obit1/xxbouteflika1-facebookJumbo.jpg",
+            "publishedAt": "2021-09-18T02:20:30Z",
+            "content": "After Algeria won independence in 1962, Mr. Bouteflika was appointed minister of youth and sports in the government of Ahmed Ben Bella, Algerias first elected president. He headed Algerian delegation… [+1930 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alexandra Meeks, CNN",
+            "title": "Two of California Gov. Gavin Newsom's children test positive for Covid-19 - CNN",
+            "description": "Two of California Gov. Gavin Newsom's four children have tested positive for Covid-19, his office said in a statement Friday.",
+            "url": "https://www.cnn.com/2021/09/17/politics/gavin-newsom-children-covid/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210909141755-01-gavin-newsom-super-tease.jpg",
+            "publishedAt": "2021-09-18T02:19:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel",
+            "title": "California synagogue shooter pleads guilty to more than 100 federal hate crimes - NBC News",
+            "description": "A California man who attacked a Poway synagogue in a 2019 attack, killing one and wounding others, pleaded guilty to more than 100 federal hate crimes Friday.",
+            "url": "https://www.nbcnews.com/news/us-news/california-synagogue-shooter-pleads-guilty-more-100-federal-hate-crimes-n1279492",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_37/3506661/210917-john-t-earnest-2019-ac-826p.jpg",
+            "publishedAt": "2021-09-18T01:58:00Z",
+            "content": "The California man who opened fire on a Poway synagogue in a 2019 attack that killed one person and wounded others pleaded guilty to more than 100 federal hate crime charges Friday.\r\nJohn T. Earnest,… [+2173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Mark Schlabach",
+            "title": "Purdue to feature band's barred giant drum outside Notre Dame Stadium - ESPN",
+            "description": "Purdue's band plans to feature their giant bass drum outside of Notre Dame Stadium on Saturday. They will be without it for their halftime performance due to size issues with the stadium's visitor tunnel.",
+            "url": "https://www.espn.com/college-football/story/_/id/32226497/purdue-feature-band-barred-giant-drum-notre-dame-stadium",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0223%2Fncb_g_purdue_ms_1296x729.jpg",
+            "publishedAt": "2021-09-18T01:33:04Z",
+            "content": "SOUTH BEND, Ind. -- Purdue's famous giant bass drum has drummed up quite a controversy before Saturday's road game at Notre Dame Stadium.\r\nAfter being told that the World's Largest Drum would not be … [+2128 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Jordan Williams",
+            "title": "Pfizer recalls anti-smoking drug due to high levels of ingredient tied increased risk of cancer | TheHill - The Hill",
+            "description": "Pfizer recalled its anti-smoking drug Chantix due to high levels of an ingredient that is tied to an increased risk of cancer.",
+            "url": "https://thehill.com/policy/healthcare/572847-pfizer-recalls-anti-smoking-drug-due-to-high-levels-of-ingredient-tied",
+            "urlToImage": "https://thehill.com/sites/default/files/ca_pfizer_090820getty_4.jpg",
+            "publishedAt": "2021-09-18T01:28:40Z",
+            "content": "Pfizer recalled its anti-smoking drug Chantix due to high levels of an ingredient that is tied to an increased risk of cancer. \r\nIn a notice posted to the Food and Drug Administrations (FDA) website … [+1295 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maggie Fox, CNN",
+            "title": "5 reasons why FDA advisers did not recommend Covid-19 booster shots for everyone - CNN",
+            "description": "FDA vaccine advisers declined Friday to recommend the agency approve booster doses for everyone who got vaccinated six months ago or longer.",
+            "url": "https://www.cnn.com/2021/09/17/health/fda-advisers-booster-five-things/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210917114319-01-fda-0823-restricted-super-tease.jpg",
+            "publishedAt": "2021-09-18T01:25:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KOMO News"
+            },
+            "author": "Suzanne Phan, KOMO News Reporter",
+            "title": "King County restaurants require proof of vaccination Oct 25; Kids under 12 exempt - KOMO News",
+            "description": "KING COUNTY, Wash. - On Oct. 25, most restaurants and bars in King County will require guests to show proof of vaccination to dine indoors. But what about kids under the age of 12? They are not required to be vaccinated now. So what happens to them? Ekene Okp…",
+            "url": "https://komonews.com/news/local/king-county-restaurants-require-proof-of-vaccination-oct-25-kids-under-12-exempt",
+            "urlToImage": "https://static-35.sinclairstoryline.com/resources/media/dd784077-73b2-430f-b985-1112d6b73ff4-large16x9_thumb_48427.png?1631928984628",
+            "publishedAt": "2021-09-18T01:16:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": null,
+            "title": "U.S. Plans To Deport Massive Number Of Haitians From Del Rio, Texas, An Official Says - NPR",
+            "description": "Plans have yet to be finalized, but officials are considering five to eight flights a day. The official spoke to The Associated Press on condition of anonymity.",
+            "url": "https://www.npr.org/2021/09/17/1038482663/u-s-plans-to-deport-massive-number-of-haitians-from-del-rio-texas-an-official-sa",
+            "urlToImage": "https://media.npr.org/assets/img/2021/09/17/ap21260644890866_wide-74272a2c8d68dea9635546ac1059a03924e17b5c.jpg?s=1400",
+            "publishedAt": "2021-09-18T00:47:17Z",
+            "content": "Haitian migrants use a dam to cross to and from the United States from Mexico to Del Rio, Texas on Friday.\r\nEric Gay/AP\r\nDEL RIO, Texas A U.S. official says the Biden administration is planning \"mass… [+6747 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FOX 13 Tampa Bay"
+            },
+            "author": "Evan Axelbank",
+            "title": "FBI searching for Brian Laundrie and Gabby Petito following police activity at North Port home, attorney says - FOX 13 Tampa Bay",
+            "description": "According to the Laundrie family attorney, the FBI is currently searching for both Brian Laundrie and Gabby Petito. Police confirmed Friday night that Brian appears to have been missing since Tuesday.",
+            "url": "https://www.fox13news.com/news/amid-search-for-gabby-petito-police-speak-with-brian-laundries-family-at-north-port-home",
+            "urlToImage": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2021/09/1280/720/laundrie-home-gabby-petito.jpg?ve=1&tl=1",
+            "publishedAt": "2021-09-18T00:37:31Z",
+            "content": "NORTH PORT, Fla. - According to the Laundrie family attorney, the FBI is currently searching for both Brian Laundrie and Gabby Petito. Police confirmed Friday night that Brian appears to have been mi… [+3500 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "People",
+            "title": "Bachelor Stars Juan Pablo Galavis and Nikki Ferrell Reunite After 7 Years: 'Catching Up' - Yahoo Entertainment",
+            "description": "Juan Pablo Galavis shared a picture with his ex on Instagram Friday",
+            "url": "https://people.com/tv/bachelor-stars-juan-pablo-galavis-and-nikki-ferrell-reunite-after-7-years-catching-up/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6l2VWGzR9y69WX4njBZygQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjk0/https://s.yimg.com/uu/api/res/1.2/6CM8jwCTxszohAmmGi960g--~B/aD0xNjE3O3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/people_218/f48ad5cfc16ea86b86b7c8976a60f0c3",
+            "publishedAt": "2021-09-18T00:28:59Z",
+            "content": "Juan Pablo Galavis and Nikki Ferrell\r\nJuan Pablo Galavis/Instagram \r\nWho says exes can't be friends? Not Juan Pablo Galavis and Nikki Ferrell.\r\nThe former Bachelor stars reunited recently in Kansas C… [+1655 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "The PS5 Has a New Model, But It's... Not That Exciting - IGN Daily Fix - IGN",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9T19ObWlQNm5TTkXSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-09-18T00:04:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kyle Morris",
+            "title": "Blinken deletes, replaces tweet vowing US will 'stand with the people of Hong Kong' - Fox News",
+            "description": "Antony Blinken has deleted a tweet which seemingly criticized the Chinese government and showed support from the United States for the people of Hong Kong.",
+            "url": "https://www.foxnews.com/politics/blinken-deletes-tweet-vowing-us-will-stand-with-the-people-of-hong-kong",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Secretary-of-State-Antony-Blinken-Afghanistan.jpg",
+            "publishedAt": "2021-09-18T00:01:59Z",
+            "content": "Secretary of State Antony Blinken has deleted a tweet that seemingly criticized the Chinese government and showed support from the United States for the people of Hong Kong, instead opting to issue a… [+2004 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Mike DeBonis, Marianna Sotomayor",
+            "title": "Trump praises supporters arrested for attack on Capitol ahead of rally - The Washington Post",
+            "description": "The state of the party was put into focus with the sudden retirement announcement of Rep. Anthony Gonzalez (R-Ohio), a onetime rising GOP star who cited “the toxic dynamics inside our own party” for his decision.",
+            "url": "https://www.washingtonpost.com/politics/republican-leaders-remain-silent-as-trump-casts-perpetrators-of-jan-6-attack-as-political-prisoners/2021/09/17/4ce91dc2-17d0-11ec-9589-31ac3173c2e5_story.html",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6NWYN4AXZQI6ZOLW6SSDW5AK5M.jpg&w=1440",
+            "publishedAt": "2021-09-17T23:55:49Z",
+            "content": "The state of the party was put into focus this week with the sudden retirement announcement of Rep. Anthony Gonzalez (R-Ohio), a onetime rising GOP star who became one of 10 House Republicans to vote… [+10015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Real estate heir Robert Durst found guilty of murdering his friend Susan Berman - The Guardian",
+            "description": "Prosecutors said multimillionaire killed friend because she planned to tell police what she knew about his wife’s death",
+            "url": "https://amp.theguardian.com/us-news/2021/sep/17/robert-durst-found-guilty-of-first-degree-in-susan-berman-trial",
+            "urlToImage": "https://i.guim.co.uk/img/media/836585128a2f37a815de78fdb6a6288de4956830/0_0_4000_2399/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b790cbe2a259a383408a13318afb3ca6",
+            "publishedAt": "2021-09-17T23:54:00Z",
+            "content": "The multimillionaire New York real estate heir Robert Durst has been convicted of murdering his best friend Susan Berman more than 20 years ago, in a case that took on new life following the document… [+4131 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Joseph Wulfsohn",
+            "title": "Three Sunday shows ignored NYT report on botched drone strike Pentagon now admits killed 10 Afghan civilians - Fox News",
+            "description": "Three of the five prominent Sunday morning newscasts avoided the explosive New York Times report about the botched U.S. drone strike the Pentagon finally admitted killed Afghan civilians rather than ISIS-K terrorists the Biden administration previously touted.",
+            "url": "https://www.foxnews.com/media/abc-nbc-cnn-sunday-shows-nyt-report-drone-strike",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Dana-Bash-v2.jpg",
+            "publishedAt": "2021-09-17T23:53:16Z",
+            "content": "Three of the five prominent Sunday morning newscasts avoided the explosive New York Times report about the botched U.S. drone strike the Pentagon finally admitted killed Afghan civilians rather than … [+1922 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Antonio Planas, The Associated Press",
+            "title": "Teen city councilman in Alabama who voted against masks has Covid-19 - NBC News",
+            "description": "Hunter Pepper, 19, the youngest person ever to be elected to the Decatur, Alabama, city council, said he has contracted Covid-19 and encourages vaccinations.",
+            "url": "https://www.nbcnews.com/news/us-news/teen-city-councilman-alabama-who-voted-against-masks-has-covid-n1279487",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_37/3506622/210917-decatur-alabama-hunter-pepper-snip-ac-508p.jpg",
+            "publishedAt": "2021-09-17T23:44:00Z",
+            "content": "A teenage city council member in Alabama who had voted to end a mask mandate is encouraging residents to get vaccinated after he contracted Covid-19.\r\nI am going to get the vaccine after Im cleared o… [+1591 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WLWT Cincinnati"
+            },
+            "author": "WLWT Digital Staff",
+            "title": "8 students cited in Boone County in relation to damage from viral TikTok challenge - WLWT Cincinnati",
+            "description": "Eight students have been cited in Boone County after a viral TikTok challenge has left many schools with damage.",
+            "url": "https://www.wlwt.com/article/8-students-cited-boone-county-from-viral-tiktok-challenge/37643149",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/tiktok-vandalism-1631843528.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2021-09-17T23:23:00Z",
+            "content": "BOONE COUNTY, Ky. —Eight students have been cited in Boone County after a viral TikTok challenge has left many schools with damage.\r\nStudents have been stealing or destroying school property, all for… [+1804 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "Katie Campione",
+            "title": "Khloé Kardashian Shares Adorable Pic of True Dressed as a Little Ballerina in a Purple Tutu - Yahoo Entertainment",
+            "description": "On Friday, proud mom Khloé Kardashian posted a sweet photo of her 3-year-old daughter posing in a purple tutu and matching tank top",
+            "url": "https://people.com/parents/true-thompson-poses-in-a-purple-ballerina-outfit/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Lh1TfZFYxEHh5YfEBIXMQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNDk5/https://s.yimg.com/uu/api/res/1.2/QKrNgd_2Nd0OtSHADYEHwA--~B/aD0xNTAwO3c9MTIwMTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/people_218/9527aad635db1ae9616528331edf3c32",
+            "publishedAt": "2021-09-17T21:37:02Z",
+            "content": "True Thompson is a little ballerina!\r\nOn Friday, Khloé Kardashian shared a sweet photo of her 3-year-old daughter posing in a purple tutu and matching tank top. The toddler finished off her adorable … [+1974 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Las Vegas Review-Journal"
+            },
+            "author": "Bruce Marshall",
+            "title": "NFL betting trends for Week 2: Raiders and over - Las Vegas Review-Journal",
+            "description": "<p>Las Vegas handicapper Bruce Marshall is editor of The Gold Sheet (Goldsheet.com). He provides the Review-Journal with NFL tech notes and trends.</p>",
+            "url": "https://www.reviewjournal.com/post/2442487",
+            "urlToImage": "https://www.reviewjournal.com/wp-content/uploads/2021/09/15597076_web1_FBN-RAIDERS_091321ev_0014.jpg",
+            "publishedAt": "2021-09-17T21:26:00Z",
+            "content": "Sunday\r\nRaiders at Pittsburgh (-6, 47): The Raiders won six of eight outright on the road last season and are 8-3 ATS in their last 11 games as a road underdog. The Steelers closed 2020 1-6 straight … [+4082 chars]"
+        }
+    ]
+}
